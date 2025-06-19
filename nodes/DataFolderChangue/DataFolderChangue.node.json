@@ -1,0 +1,23 @@
+{
+	"node": "n8n-nodes-base.DataFolderChangue",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Miscellaneous",
+        "Data",
+        "Folder",
+        "OS"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": ""
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": ""
+			}
+		]
+	}
+}
